@@ -1,0 +1,59 @@
+
+    STAR
+_____________
+S: Situation
+T: Task
+A: Action
+R: Result
+_____________
+
+Questions: 
+
+	A time you failed and bounced back?
+
+I failed the first half of phys 180 and ended up getting an A.
+(Tell the whole story)
+
+
+	A time you resolved conflict?
+
+Senior design was split between two project choices and I put my 
+design aside for the benefit of the group. Assessed the skillset
+of the group.
+
+
+	Favorite Apple device?
+
+iPhone, changed the world and along with iOS ushered in a new paradigm of UI.
+Without iPhone and iOS the world would not look how it does today period.
+The A chips (and apple silicon in general) provide integration with software
+and hardware that just isn't there with the competition.
+
+
+	Leadership?
+
+Anki project. Research team gave me a vague idea of what they wanted,
+I had to take initiative and come up with a system that works.
+Learned new tools and technologies.
+
+The lab, trained new employees. First point of contact for professors
+and students.
+
+	Why Apple?
+
+Design philosophy. Tight integration in all facets of the company.
+This ideology streamlines logistics and improves productivity.
+Specifically in CAD, if all designers are using common tools,
+chips come out with fewer bugs, fewer tools breaking, etc.
+
+	Proudest accomplishment?
+
+Data compression suite. Learned python on my own volition,
+whole semester culminated into an extracurricular project
+where I learned how to distribute an application. Spurred my
+development of my latest application which is even more advanced.
+
+
+VLSI Questions:
+
+Physical only cells:
